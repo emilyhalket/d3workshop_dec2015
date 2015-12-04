@@ -1,0 +1,19 @@
+h1 {
+	color: green;
+	text-align: center;
+
+}
+
+.prettycircle{
+	fill: red;
+	opacity: .5;
+}
+
+/* make your own class style */
+.prettycircle2{
+	fill: purple;
+	stroke: black;
+	stroke-width: 3;
+	opacity: .2;
+
+}
